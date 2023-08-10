@@ -8,15 +8,15 @@ highlighter: rouge
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : simple site
+title : Práctica Lab 2 DAAW
 author :
-  name : Karl Broman
-  email : kbroman@gmail.com
-  github : kbroman
+  name : Jairo Calderón
+  email : calderonjairo88@gmail.com
+  github : jairocs8
   feedburner : nil
 
 # NOTE: Replacing this next line with your own URL
-production_url : https://kbroman.github.io/simple_site
+production_url : https://jairocs8.github.io/
 
 # Tell Github to use the kramdown markdown interpreter
 # (see https://help.github.com/articles/migrating-your-pages-site-from-maruku)
