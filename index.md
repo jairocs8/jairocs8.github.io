@@ -13,4 +13,4 @@ description: Me gusta mucho la NFL y el fútbol. Tengo un gato pero no es amable
 
 ![Mi foto](images/foto.jpeg)
 
-[![LinkedIn](images/Logo-Linkedin.png)](www.linkedin.com/in/jairo-calderón-28070a274)
+[![LinkedIn](images/Logo-Linkedin.jpg)](https://www.linkedin.com/in/jairo-calderón-28070a274)
